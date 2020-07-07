@@ -3,7 +3,7 @@ Literature review and research planning on my research topic
 
 
 ## Research topic
-# Prediction of voting decisions of institutional shareholders toward nominees for director based on proxy reports guided by policy
+Research topic: Prediction of voting decisions of institutional shareholders toward nominees for director based on proxy reports guided by policy
 
 
 ## abstract
