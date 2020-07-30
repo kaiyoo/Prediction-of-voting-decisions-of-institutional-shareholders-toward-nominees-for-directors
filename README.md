@@ -10,8 +10,14 @@ Research topic: Prediction of voting decisions of institutional shareholders tow
 https://github.com/kaiyoo/Research-methods/blob/master/1.%20Identification%20of%20research%20question%20(Illustration).JPG
 
 ## Brief overview
+
+- Identification of research question
 ![alt text](https://github.com/kaiyoo/Research-methods/blob/master/1.%20Identification%20of%20research%20question%20(Illustration).JPG?raw=true)
+
+- Measure
 ![alt text](https://github.com/kaiyoo/Research-methods/blob/master/5.%20Measures.JPG?raw=true)
+
+- Contribution
 ![alt text](https://github.com/kaiyoo/Research-methods/blob/master/7.%20Contribution.JPG?raw=true)
 
 ## Abstract
